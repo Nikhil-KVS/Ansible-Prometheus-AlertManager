@@ -1,0 +1,7 @@
+- name: Auto-restart Nginx service
+  hosts: localhost
+  connection: local
+  tasks:
+    - name: Restart Nginx container
+      command: docker start nginx || docker run -d --name nginx -p 8082:80 nginx
+

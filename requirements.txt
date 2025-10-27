@@ -1,0 +1,4 @@
+ansible>=7
+docker
+PyYAML
+
