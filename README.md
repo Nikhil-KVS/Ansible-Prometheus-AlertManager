@@ -36,3 +36,48 @@ An alert fires, is routed to Alertmanager, and triggers an automated response.
 Ansible playbook restores NGINX with zero manual effort.
 All project components, scripts, and configs are tracked in GitHub for repeatability and team sharing.
 You now have a production-grade pattern for self-healing infrastructure — ideal for DevOps, SRE, and cloud-native automation learning or demonstrations.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Project Overview**
+>>Architecture: Blackbox/Node Exporter → Prometheus → Alertmanager → Webhook Script → Ansible → Restart Service (NGINX)
+>>Goal: Prometheus detects failures → Alertmanager triggers webhook → Webhook triggers Ansible automation → The EC2 instance self-heals (service restarts automatically)
+
+#create aws environment
+launch amazon linux ec2 instance and allow inbound ports in security groups for 22 (SSH), 9090 (Prometheus), 9093 (Alertmanager), and 8080/8082 (NGINX)
+
+>>Run all commands from /home/ec2-user/folder-name
+
+#install dependencies
+sudo dnf update -y
+sudo dnf install -y git jq python3-pip
+
+sudo dnf install -y docker
+sudo systemctl enable docker
+sudo systemctl start docker
+
+(Docker Compose v2 setup)
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.29.2/docker-compose-linux-x86_64" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+docker-compose version
+
+sudo pip3 install ansible
+ansible --version
+
+>>Configure Prometheus in prometheus/prometheus.yml and prometheus/alerts.yml
+>>Configure Alertmanager in alertmanager/config.yml
+>>Write Ansible Playbook in ansible/playbook.yml
+>>Monitoring and Auto-Heal Script in scripts/monitor_alerts.sh & chmod +x scripts/monitor_alerts.sh (Make it executable)
+>>Docker Compose File in docker-compose.yml & run → sudo docker compose up -d
+>>requirements.txt (For Python and Ansible dependencies)
+>>Run the Self-Healing Monitor → nohup bash scripts/monitor_alerts.sh & (runs in background)
+>>Check Logs for Recovery Evidence View monitor script output → cat nohup.out / to See script logs: tail -f nohup.out
+
+#Verify services:
+Prometheus: http://<EC2-IP>:9090 (Status > Targets)
+Alertmanager: http://<EC2-IP>:9093
+NGINX: http://<EC2-IP>:8082
+
+#Test the System by Stopping the NGINX container: docker stop nginx and run docker ps (verify nginx is down)
+Within 30 seconds: Prometheus detects NGINX is down → Alertmanager sends a webhook → The script runs Ansible → Docker restarts NGINX automatically
+>>Check: docker ps (The NGINX container will be running again — confirming the self-healing is successful)
