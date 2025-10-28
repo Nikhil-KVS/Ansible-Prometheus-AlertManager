@@ -1,610 +1,1620 @@
 [ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
 [ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
-[ALERT DETECTED] Running Ansible recovery...
-ERROR! the playbook: /home/ec2-user/self-healing-infra/ansible/playbook.yml could not be found
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.423660", "end": "2025-10-28 06:36:07.007397", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:06.583737", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.447936", "end": "2025-10-28 06:36:07.009536", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:06.561600", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.052528", "end": "2025-10-28 06:36:10.876132", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:10.823604", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.088943", "end": "2025-10-28 06:36:20.786839", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:20.697896", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.090315", "end": "2025-10-28 06:36:20.890762", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:20.800447", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041841", "end": "2025-10-28 06:36:22.894130", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:22.852289", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.092997", "end": "2025-10-28 06:36:34.534970", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:34.441973", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.092697", "end": "2025-10-28 06:36:35.566850", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:35.474153", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.040840", "end": "2025-10-28 06:36:36.777721", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:36.736881", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.097783", "end": "2025-10-28 06:36:47.339597", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:47.241814", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.045089", "end": "2025-10-28 06:36:49.672167", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:49.627078", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041799", "end": "2025-10-28 06:36:50.330373", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:50.288574", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042533", "end": "2025-10-28 06:36:59.365073", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:36:59.322540", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.045650", "end": "2025-10-28 06:37:02.966294", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:02.920644", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042997", "end": "2025-10-28 06:37:03.657131", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:03.614134", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041641", "end": "2025-10-28 06:37:11.331941", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:11.290300", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.086897", "end": "2025-10-28 06:37:16.106716", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:16.019819", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041407", "end": "2025-10-28 06:37:16.966056", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:16.924649", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042541", "end": "2025-10-28 06:37:23.279250", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:23.236709", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.093715", "end": "2025-10-28 06:37:29.215737", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:29.122022", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042007", "end": "2025-10-28 06:37:30.157542", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:30.115535", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042198", "end": "2025-10-28 06:37:35.269744", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:35.227546", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.089038", "end": "2025-10-28 06:37:42.275549", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:42.186511", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043086", "end": "2025-10-28 06:37:43.284166", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:43.241080", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041311", "end": "2025-10-28 06:37:47.210838", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:47.169527", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.089328", "end": "2025-10-28 06:37:55.178790", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:55.089462", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043379", "end": "2025-10-28 06:37:56.287537", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:56.244158", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.045492", "end": "2025-10-28 06:37:59.149064", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:37:59.103572", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.086553", "end": "2025-10-28 06:38:08.059991", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:07.973438", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[ALERT DETECTED] Running Ansible recovery...
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043232", "end": "2025-10-28 06:38:09.232092", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:09.188860", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042047", "end": "2025-10-28 06:38:11.178877", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:11.136830", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.090217", "end": "2025-10-28 06:38:20.810111", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:20.719894", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.090671", "end": "2025-10-28 06:38:22.909890", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:22.819219", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043689", "end": "2025-10-28 06:38:24.032308", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:23.988619", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.039851", "end": "2025-10-28 06:38:32.861857", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:32.822006", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.078088", "end": "2025-10-28 06:38:35.792617", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:35.714529", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041859", "end": "2025-10-28 06:38:36.878134", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:36.836275", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042063", "end": "2025-10-28 06:38:44.805506", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:44.763443", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.089944", "end": "2025-10-28 06:38:48.608019", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:48.518075", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.046235", "end": "2025-10-28 06:38:49.709328", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:49.663093", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043865", "end": "2025-10-28 06:38:56.746934", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:38:56.703069", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.088537", "end": "2025-10-28 06:39:01.397271", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:01.308734", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.044689", "end": "2025-10-28 06:39:02.601716", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:02.557027", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043135", "end": "2025-10-28 06:39:08.690068", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:08.646933", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.085380", "end": "2025-10-28 06:39:14.157560", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:14.072180", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042887", "end": "2025-10-28 06:39:15.329057", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:15.286170", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042637", "end": "2025-10-28 06:39:20.623019", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:20.580382", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.083015", "end": "2025-10-28 06:39:26.822205", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:26.739190", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042333", "end": "2025-10-28 06:39:28.031329", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:27.988996", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041501", "end": "2025-10-28 06:39:32.558100", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:32.516599", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.083212", "end": "2025-10-28 06:39:39.464318", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:39.381106", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.040046", "end": "2025-10-28 06:39:40.700788", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:40.660742", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042584", "end": "2025-10-28 06:39:44.492733", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:44.450149", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.084740", "end": "2025-10-28 06:39:52.153891", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:52.069151", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041145", "end": "2025-10-28 06:39:53.438563", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:53.397418", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043811", "end": "2025-10-28 06:39:56.427359", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:39:56.383548", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.091874", "end": "2025-10-28 06:40:04.930740", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:04.838866", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.044768", "end": "2025-10-28 06:40:06.219041", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:06.174273", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042171", "end": "2025-10-28 06:40:08.397030", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:08.354859", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.089659", "end": "2025-10-28 06:40:17.636164", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:17.546505", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.077513", "end": "2025-10-28 06:40:19.353684", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:19.276171", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043969", "end": "2025-10-28 06:40:20.928306", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:20.884337", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[ALERT DETECTED] Running Ansible recovery...
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.084473", "end": "2025-10-28 06:40:29.787046", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:29.702573", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.096033", "end": "2025-10-28 06:40:32.106104", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:32.010071", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043963", "end": "2025-10-28 06:40:33.486479", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:33.442516", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042239", "end": "2025-10-28 06:40:41.830723", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:41.788484", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.084239", "end": "2025-10-28 06:40:44.799476", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:44.715237", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043124", "end": "2025-10-28 06:40:46.156075", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:46.112951", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042824", "end": "2025-10-28 06:40:53.772534", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:53.729710", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.079365", "end": "2025-10-28 06:40:57.451874", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:57.372509", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.045010", "end": "2025-10-28 06:40:58.815998", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:40:58.770988", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041331", "end": "2025-10-28 06:41:05.704868", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:05.663537", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.087057", "end": "2025-10-28 06:41:10.134351", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:10.047294", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.044264", "end": "2025-10-28 06:41:11.476667", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:11.432403", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042403", "end": "2025-10-28 06:41:17.642899", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:17.600496", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.086714", "end": "2025-10-28 06:41:22.607601", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:22.520887", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042157", "end": "2025-10-28 06:41:24.004830", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:23.962673", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.041867", "end": "2025-10-28 06:41:29.571747", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:29.529880", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.093077", "end": "2025-10-28 06:41:35.172208", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:35.079131", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042374", "end": "2025-10-28 06:41:36.547210", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:36.504836", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042365", "end": "2025-10-28 06:41:41.522374", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:41.480009", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.099851", "end": "2025-10-28 06:41:47.858552", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:47.758701", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.042543", "end": "2025-10-28 06:41:49.241056", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:49.198513", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.044120", "end": "2025-10-28 06:41:53.465394", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:41:53.421274", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.092055", "end": "2025-10-28 06:42:00.674123", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:42:00.582068", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043066", "end": "2025-10-28 06:42:01.988903", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:42:01.945837", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Restart Nginx container] *************************************************
+fatal: [localhost]: FAILED! => {"changed": true, "cmd": ["docker", "start", "nginx", "||", "docker", "run", "-d", "--name", "nginx", "-p", "8082:80", "nginx"], "delta": "0:00:00.043896", "end": "2025-10-28 06:42:05.475653", "msg": "non-zero return code", "rc": 125, "start": "2025-10-28 06:42:05.431757", "stderr": "unknown shorthand flag: 'd' in -d\nSee 'docker start --help'.", "stderr_lines": ["unknown shorthand flag: 'd' in -d", "See 'docker start --help'."], "stdout": "", "stdout_lines": []}
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=1    changed=0    unreachable=0    failed=1    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+[ALERT DETECTED] Running Ansible recovery...
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+[ALERT DETECTED] Running Ansible recovery...
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+[ALERT DETECTED] Running Ansible recovery...
+[WARNING]: No inventory was parsed, only implicit localhost is available
+[WARNING]: provided hosts list is empty, only localhost is available. Note that
+the implicit localhost does not match 'all'
+
+PLAY [Auto-restart Nginx service] **********************************************
+
+TASK [Gathering Facts] *********************************************************
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
+ok: [localhost]
+
+TASK [Try to start nginx container] ********************************************
+changed: [localhost]
+
+TASK [Run nginx container if not running] **************************************
+changed: [localhost]
+
+PLAY RECAP *********************************************************************
+localhost                  : ok=3    changed=2    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
+
